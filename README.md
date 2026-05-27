@@ -5,8 +5,9 @@
 Este projeto foi desenvolvido como avaliação G2 da disciplina de Linguagem de Programação.
 
 ## 🔗 Links do Projeto
-- **Dashboard Interativo:** https://projeto-energia-g2-6ehf2wk4m56mefljke3fsr.streamlit.app/
-- **Documentação (GitHub Pages):** https://eallan06.github.io/projeto-energia-g2/
+- **Dashboard Interativo:** (https://projeto-energia-g2-6ehf2wk4m56mefljke3fsr.streamlit.app/) <- ESTE É O LINK PRINCIPAL
+- **Documentação (GitHub Pages):** (https://eallan06.github.io/projeto-energia-g2/)
+- **Repositório (Código):** (https://github.com/eallan06/projeto-energia-g2)
 
 ## 🛠️ Tecnologias Utilizadas
 - **Python** (Processamento de dados)
