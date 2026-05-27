@@ -1,11 +1,12 @@
+# Enrique Allan Lacorte Gonçalves Filgueiras
 # projeto-energia-G2
 # ⚡ Análise da Matriz Energética Brasileira (2015-2024)
 
 Este projeto foi desenvolvido como avaliação G2 da disciplina de Linguagem de Programação.
 
 ## 🔗 Links do Projeto
-- **Dashboard Interativo:** [COLE O LINK DO STREAMLIT AQUI]
-- **Documentação (GitHub Pages):** [COLE O LINK DO GITHUB PAGES AQUI]
+- **Dashboard Interativo:** https://projeto-energia-g2-6ehf2wk4m56mefljke3fsr.streamlit.app/
+- **Documentação (GitHub Pages):** https://eallan06.github.io/projeto-energia-g2/
 
 ## 🛠️ Tecnologias Utilizadas
 - **Python** (Processamento de dados)
